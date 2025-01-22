@@ -3,6 +3,8 @@
 
 files:
   - "!**/*"
+  - ".commitlintrc"
+  - "GitVersion.yml"
   - "LICENSE"
   - ".github/CODEOWNERS"
   - ".github/labels.yml"
