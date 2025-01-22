@@ -1,4 +1,4 @@
-name: Update copyright year in license file
+name: Update LICENSE file
 
 on:
   schedule:
@@ -7,6 +7,7 @@ on:
 
 jobs:
   run:
+    name: Validate
     runs-on: ubuntu-latest
     steps:
 
