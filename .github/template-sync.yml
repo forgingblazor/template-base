@@ -4,6 +4,7 @@
 files:
   - "!**/*"
   - "LICENSE"
+  - ".github/CODEOWNERS"
   - ".github/FUNDING.yml"
   - ".github/ISSUE_TEMPLATE/**/*"
   - ".github/PULL_REQUEST_TEMPLATE/**/*"
